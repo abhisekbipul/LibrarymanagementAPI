@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagement\\librarymanagement\\controllers\\librarycardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\librarycardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagement\\librarymanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagement\\librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagement\\librarymanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagement\\librarymanagement\\migrations\\20240915165540_library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\migrations\\20240915165540_library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagement\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagement\\librarymanagement\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagement\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20240915162330_library5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagement\\Migrations\\20240915162330_library5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagement\\librarymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02754C40-C01E-4EB1-A7C3-B6D7D756C0AD}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:05:43.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T05:50:54.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T05:48:23.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryCardController.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Controllers\\LibraryCardController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\LibraryCardController.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Controllers\\LibraryCardController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\LibraryCardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:31:35.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement\\LibraryManagement.csproj",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeToolTip": "LibraryManagement\\LibraryManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T05:47:31.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:12:03.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "LibraryManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T05:35:14.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\LibraryCard.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\LibraryCard.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\LibraryCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T05:50:20.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240915165540_library.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20240915165540_library.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\20240915165540_library.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20240915165540_library.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\20240915165540_library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:55:42.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240915162330_library5.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20240915162330_library5.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\20240915162330_library5.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20240915162330_library5.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\20240915162330_library5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:23:31.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\User.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T05:49:23.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T05:35:00.015Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
